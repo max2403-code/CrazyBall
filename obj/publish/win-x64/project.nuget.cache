@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSSJhPYqUZk8aGzHMkRFabenVPuRpRtfcfgAKYB5GHslh0abaRY/GXQweUFqYa0NYFcNlw8gog3aMuNHU+P/Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muxxx\\source\\repos\\CrazyBall\\CrazyBall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muxxx\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.22\\microsoft.netcore.app.runtime.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\muxxx\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.22\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\muxxx\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.22\\microsoft.aspnetcore.app.runtime.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\muxxx\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

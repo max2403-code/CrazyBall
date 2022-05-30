@@ -1,0 +1,2 @@
+C:\Users\muxxx\source\repos\CrazyBall\bin\Release\netcoreapp3.1\publish\CrazyBall.pdb
+C:\Users\muxxx\source\repos\CrazyBall\bin\Release\netcoreapp3.1\publish\CrazyBall.exe
